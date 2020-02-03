@@ -1,6 +1,8 @@
 {
   "files.associations": {
     "*.wpy": "vue",
-    "limits.h": "c"
+    "limits.h": "c",
+    "apue.h": "c",
+    "fcntl.h": "c"
   }
 }
