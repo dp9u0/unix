@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+src/4.filedir/access
+src/4.filedir/cdpwd
+src/4.filedir/changemod
+src/4.filedir/devrdev
+src/4.filedir/filetype
+src/4.filedir/ftw8
+src/4.filedir/mycd
+src/4.filedir/umask
+src/4.filedir/unlink
+src/4.filedir/zap
