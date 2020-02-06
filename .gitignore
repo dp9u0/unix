@@ -40,3 +40,10 @@ src/4.filedir/mycd
 src/4.filedir/umask
 src/4.filedir/unlink
 src/4.filedir/zap
+src/5.stdio/buf
+src/5.stdio/fgetsfputs
+src/5.stdio/getcharbug
+src/5.stdio/getcputc
+src/5.stdio/memstr
+src/5.stdio/mkstemp
+src/5.stdio/tempfiles

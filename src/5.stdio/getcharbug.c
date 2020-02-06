@@ -1,10 +1,11 @@
-#include	<stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
 
-int
-main(void)
+int main(void)
 {
-	char	c;
+  char c;
 
-	while ((c = getchar()) != EOF)
-		putchar(c);
+  while ((c = getchar()) != EOF)
+    putchar(c);
+  exit(0);
 }
