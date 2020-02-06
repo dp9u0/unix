@@ -47,3 +47,10 @@ src/5.stdio/getcputc
 src/5.stdio/memstr
 src/5.stdio/mkstemp
 src/5.stdio/tempfiles
+src/14.advio/deadlock
+src/14.advio/mandatory
+src/14.advio/mcopy2
+src/14.advio/nonblockw
+src/14.advio/rot13a
+src/14.advio/xlate
+src/14.advio/rot13c2
