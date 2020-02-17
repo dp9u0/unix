@@ -3,6 +3,7 @@
     "*.wpy": "vue",
     "limits.h": "c",
     "apue.h": "c",
-    "fcntl.h": "c"
+    "fcntl.h": "c",
+    "syscall.h": "c"
   }
 }
