@@ -133,3 +133,9 @@ src/termios/t_ttyname
 src/termios/winch
 src/threadctl/atfork
 src/threadctl/suspend
+src/0.todo/select/server
+src/0.todo/select/client
+src/0.todo/poll/server
+src/0.todo/poll/client
+src/0.todo/epoll/server
+src/0.todo/epoll/client
